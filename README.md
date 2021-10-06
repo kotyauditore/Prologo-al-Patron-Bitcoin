@@ -1,4 +1,4 @@
-# Prologo-al-Patron-Bitcoin
+# Prólogo-al-Patrón-Bitcoin
 Por Saifedean Ammous
 
 
